@@ -20,11 +20,10 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 ## 📈 Progress
 | Difficulty Level | Problems Solved |
 |------------------|-----------------|
-| 🟢 Easy          | XX              |
-| 🟡 Medium        | XX              |
-| 🔴 Hard          | XX              |
+| 🟢 Easy          | 1              |
+| 🟡 Medium        | 0              |
+| 🔴 Hard          | 0              |
 
-_(This table updates automatically with a script that tracks solved problems.)_
 
 ## 🔧 How to Use
 1. Clone the repository:
