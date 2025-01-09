@@ -22,7 +22,7 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 |------------------|-----------------|
 | 🟢 Easy          | 33              |
 | 🟡 Medium        | 1              |
-| 🔴 Hard          | 1              |
+| 🔴 Hard          | 0              |
 
 
 ## 🔧 How to Use
