@@ -20,9 +20,9 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 ## 📈 Progress
 | Difficulty Level | Problems Solved |
 |------------------|-----------------|
-| 🟢 Easy          | 32              |
-| 🟡 Medium        | 0              |
-| 🔴 Hard          | 0              |
+| 🟢 Easy          | 33              |
+| 🟡 Medium        | 1              |
+| 🔴 Hard          | 1              |
 
 
 ## 🔧 How to Use
