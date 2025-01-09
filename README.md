@@ -44,8 +44,9 @@ Feel free to suggest improvements or share alternative solutions! Open an issue 
 
 ## 📧 Contact
 If you have any questions or suggestions, you can reach out to me:
-- Email: your-email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: asanabdi50@gmail.com
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/asan-abdi-2663b1292)
+- Telegram: [Your Profile](https://t.me/Ajalzm)
 
 ---
 
