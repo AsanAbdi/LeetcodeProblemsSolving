@@ -20,8 +20,8 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 ## 📈 Progress
 | Difficulty Level | Problems Solved |
 |------------------|-----------------|
-| 🟢 Easy          | 33              |
-| 🟡 Medium        | 1              |
+| 🟢 Easy          | 34              |
+| 🟡 Medium        | 3              |
 | 🔴 Hard          | 0              |
 
 
