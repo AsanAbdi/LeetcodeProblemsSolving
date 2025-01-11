@@ -14,9 +14,6 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 - **File Naming Convention:**
   Each file includes the problem ID and title, e.g., `1_two_sum.py`.
 
-- **Code Comments:**
-  I include explanations to clarify the logic behind each solution.
-
 ## 📈 Progress
 | Difficulty Level | Problems Solved |
 |------------------|-----------------|
