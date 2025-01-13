@@ -18,7 +18,7 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 | Difficulty Level | Problems Solved |
 |------------------|-----------------|
 | 🟢 Easy          | 34              |
-| 🟡 Medium        | 4              |
+| 🟡 Medium        | 5              |
 | 🔴 Hard          | 0              |
 
 
