@@ -19,7 +19,7 @@ This repository contains my solutions to problems from [LeetCode](https://leetco
 |------------------|-----------------|
 | 🟢 Easy          | 34              |
 | 🟡 Medium        | 6              |
-| 🔴 Hard          | 0              |
+| 🔴 Hard          | 1              |
 
 
 ## 🔧 How to Use
